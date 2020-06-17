@@ -11,7 +11,7 @@ URL: https://phono-app.netlify.app/
 ## Screenshots
 
  <p align="center">
-  <img width="800" height="924" src="./img/Phono.png">
+  <img width="800" height="924" src="./dist/img/Phono.png">
 </p>
 
 ## Technologies used
